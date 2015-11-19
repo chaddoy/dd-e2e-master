@@ -1,0 +1,18 @@
+{
+  "name": "master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gideon Rosales <gideonrosales@gmail.com> (https://github.com/gideonairex)",
+  "license": "ISC",
+  "dependencies": {
+    "double-ended-queue": "^0.9.7",
+    "hapi": "^11.1.1",
+    "inert": "^3.2.0",
+    "lodash": "^3.10.1",
+    "socket.io": "^1.3.7"
+  }
+}
